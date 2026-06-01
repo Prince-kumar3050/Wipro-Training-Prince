@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-25T17:56:27 IST" name="Rest API Suite" finished-at="2026-05-25T17:57:24 IST" duration-ms="56915">
+    <groups>
+    </groups>
+    <test started-at="2026-05-25T17:56:27 IST" name="User Test" finished-at="2026-05-25T17:57:24 IST" duration-ms="56915">
+      <class name="Rest.CRUDExcelOperation">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Rest.CRUDExcelOperation@3bb9a3ff]" started-at="2026-05-25T17:56:27 IST" name="setup" finished-at="2026-05-25T17:56:30 IST" duration-ms="2306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CRUDOperation()[pri:0, instance:Rest.CRUDExcelOperation@3bb9a3ff]" started-at="2026-05-25T17:56:30 IST" name="CRUDOperation" finished-at="2026-05-25T17:57:18 IST" duration-ms="47921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CRUDOperation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Rest.CRUDExcelOperation@3bb9a3ff]" started-at="2026-05-25T17:57:18 IST" name="tearDown" finished-at="2026-05-25T17:57:24 IST" duration-ms="6226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Rest.CRUDExcelOperation -->
+    </test> <!-- User Test -->
+  </suite> <!-- Rest API Suite -->
+</testng-results>
